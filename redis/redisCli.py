@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding=utf-8
-# 使用与redis集群的操作
+# 适用于redis集群的操作
 #pip install Redis-py-cluster
 from rediscluster import StrictRedisCluster
 import sys
@@ -22,6 +22,7 @@ def redis_cluster():
 
     redisconn.set('name', 'kk')
     print "name is", redisconn.get('name')
+    exec("print(redisconn.get('name'))")
     print(help(redisconn))
 
 redis_cluster()
