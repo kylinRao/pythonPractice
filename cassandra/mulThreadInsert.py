@@ -1,7 +1,13 @@
+#!/usr/bin/env python
+# coding=utf-8
 from cassandra.cluster import Cluster
 from multiprocessing.dummy import Pool as ThreadPool
 import os
 import datetime
+# sudo pip install Cython==0.25.2
+# ###cassandra-driver最好直接下载tar包来安装https://pypi.python.org/pypi/cassandra-driver/3.11.0
+# sudo pip install cassandra-driver
+# 安装大概5min
 
 cluster = Cluster(["192.168.1.113"])
 session = cluster.connect('mykeyspace')
