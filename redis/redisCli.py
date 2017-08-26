@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # coding=utf-8
 # 适用于redis集群的操作
+#pip install redis
 #pip install Redis-py-cluster
 from rediscluster import StrictRedisCluster
 import sys
