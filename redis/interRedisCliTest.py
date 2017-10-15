@@ -1,6 +1,6 @@
 # coding=utf-8
 import unittest
-from interRedisCli import *
+from redisCli4Win64 import *
 
 
 ##test set and get method###

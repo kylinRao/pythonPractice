@@ -1,0 +1,9 @@
+Sun, 15 Oct 2017 23:13:31 redisCli4Win64.py[line:104] DEBUG found config files ['conf\\dc.txt']
+Sun, 15 Oct 2017 23:13:31 redisCli4Win64.py[line:104] DEBUG found config files ['conf\\dc.txt', 'conf\\10\\dc.txt']
+Sun, 15 Oct 2017 23:13:31 redisCli4Win64.py[line:108] DEBUG message to show to user:input 0 to use conf\dc.txt 
+input 1 to use conf\10\dc.txt 
+
+Sun, 15 Oct 2017 23:13:33 redisCli4Win64.py[line:129] DEBUG using host and post :192.168.1.113:7000
+Sun, 15 Oct 2017 23:13:33 redisCli4Win64.py[line:132] DEBUG ['192.168.1.113', '7000']
+Sun, 15 Oct 2017 23:13:35 redisCli4Win64.py[line:88] DEBUG result = redisconn.help(  )
+Sun, 15 Oct 2017 23:13:35 redisCli4Win64.py[line:92] ERROR 'StrictRedisCluster' object has no attribute 'help'
