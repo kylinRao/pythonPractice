@@ -1,0 +1,25 @@
+Sun, 03 Dec 2017 16:28:25 redisCli4Win64.py[line:110] DEBUG found config files ['conf\\anotherEnv\\anotherSample.nodes']
+Sun, 03 Dec 2017 16:28:25 redisCli4Win64.py[line:110] DEBUG found config files ['conf\\anotherEnv\\anotherSample.nodes', 'conf\\anotherEnv\\anotherSample2.txt']
+Sun, 03 Dec 2017 16:28:25 redisCli4Win64.py[line:110] DEBUG found config files ['conf\\anotherEnv\\anotherSample.nodes', 'conf\\anotherEnv\\anotherSample2.txt', 'conf\\someEnv\\configFileSample.nodes']
+Sun, 03 Dec 2017 16:28:25 redisCli4Win64.py[line:115] DEBUG message to show to user:input 0 to use conf\anotherEnv\anotherSample.nodes 
+Sun, 03 Dec 2017 16:28:25 redisCli4Win64.py[line:115] DEBUG message to show to user:input 0 to use conf\anotherEnv\anotherSample.nodes input 1 to use conf\anotherEnv\anotherSample2.txt 
+Sun, 03 Dec 2017 16:28:25 redisCli4Win64.py[line:115] DEBUG message to show to user:input 0 to use conf\anotherEnv\anotherSample.nodes input 1 to use conf\anotherEnv\anotherSample2.txt input 2 to use conf\someEnv\configFileSample.nodes 
+Sun, 03 Dec 2017 16:28:30 redisCli4Win64.py[line:151] DEBUG reading host and post :192.168.1.113:7000
+Sun, 03 Dec 2017 16:28:30 redisCli4Win64.py[line:154] DEBUG ['192.168.1.113', '7000']
+Sun, 03 Dec 2017 16:28:30 redisCli4Win64.py[line:151] DEBUG reading host and post :192.168.1.113:7001
+Sun, 03 Dec 2017 16:28:30 redisCli4Win64.py[line:154] DEBUG ['192.168.1.113', '7001']
+Sun, 03 Dec 2017 16:28:30 redisCli4Win64.py[line:151] DEBUG reading host and post :192.168.1.113:7002
+Sun, 03 Dec 2017 16:28:30 redisCli4Win64.py[line:154] DEBUG ['192.168.1.113', '7002']
+Sun, 03 Dec 2017 16:28:30 redisCli4Win64.py[line:151] DEBUG reading host and post :192.168.1.113:7003
+Sun, 03 Dec 2017 16:28:30 redisCli4Win64.py[line:154] DEBUG ['192.168.1.113', '7003']
+Sun, 03 Dec 2017 16:28:30 redisCli4Win64.py[line:151] DEBUG reading host and post :192.168.1.113:7004
+Sun, 03 Dec 2017 16:28:30 redisCli4Win64.py[line:154] DEBUG ['192.168.1.113', '7004']
+Sun, 03 Dec 2017 16:28:30 redisCli4Win64.py[line:167] DEBUG ip port passWord is:192.168.1.113 7000 passwdHereIfneeded
+Sun, 03 Dec 2017 16:28:30 redisCli4Win64.py[line:168] DEBUG ======starting a redic-cli.exe======
+Sun, 03 Dec 2017 16:28:30 redisCli4Win64.py[line:171] DEBUG start D:\projects\github\pythonPractice\redis\dist010\redis-cli.exe -h 192.168.1.113 -p 7000 -a passwdHereIfneeded
+Sun, 03 Dec 2017 16:28:30 redisCli4Win64.py[line:110] DEBUG found config files ['conf\\anotherEnv\\anotherSample.nodes']
+Sun, 03 Dec 2017 16:28:30 redisCli4Win64.py[line:110] DEBUG found config files ['conf\\anotherEnv\\anotherSample.nodes', 'conf\\anotherEnv\\anotherSample2.txt']
+Sun, 03 Dec 2017 16:28:30 redisCli4Win64.py[line:110] DEBUG found config files ['conf\\anotherEnv\\anotherSample.nodes', 'conf\\anotherEnv\\anotherSample2.txt', 'conf\\someEnv\\configFileSample.nodes']
+Sun, 03 Dec 2017 16:28:30 redisCli4Win64.py[line:115] DEBUG message to show to user:input 0 to use conf\anotherEnv\anotherSample.nodes 
+Sun, 03 Dec 2017 16:28:30 redisCli4Win64.py[line:115] DEBUG message to show to user:input 0 to use conf\anotherEnv\anotherSample.nodes input 1 to use conf\anotherEnv\anotherSample2.txt 
+Sun, 03 Dec 2017 16:28:30 redisCli4Win64.py[line:115] DEBUG message to show to user:input 0 to use conf\anotherEnv\anotherSample.nodes input 1 to use conf\anotherEnv\anotherSample2.txt input 2 to use conf\someEnv\configFileSample.nodes 
