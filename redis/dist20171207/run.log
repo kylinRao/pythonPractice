@@ -1,0 +1,17 @@
+Fri, 08 Dec 2017 00:02:10 AredicCliConfigEntrance.py[line:110] DEBUG found config files ['conf\\anotherEnv\\anotherSample.nodes']
+Fri, 08 Dec 2017 00:02:10 AredicCliConfigEntrance.py[line:110] DEBUG found config files ['conf\\anotherEnv\\anotherSample.nodes', 'conf\\anotherEnv\\anotherSample2.txt']
+Fri, 08 Dec 2017 00:02:10 AredicCliConfigEntrance.py[line:110] DEBUG found config files ['conf\\anotherEnv\\anotherSample.nodes', 'conf\\anotherEnv\\anotherSample2.txt', 'conf\\someEnv\\configFileSample.nodes']
+Fri, 08 Dec 2017 00:02:10 AredicCliConfigEntrance.py[line:115] DEBUG message to show to user:input 0 to use conf\anotherEnv\anotherSample.nodes 
+Fri, 08 Dec 2017 00:02:10 AredicCliConfigEntrance.py[line:115] DEBUG message to show to user:input 0 to use conf\anotherEnv\anotherSample.nodes input 1 to use conf\anotherEnv\anotherSample2.txt 
+Fri, 08 Dec 2017 00:02:10 AredicCliConfigEntrance.py[line:115] DEBUG message to show to user:input 0 to use conf\anotherEnv\anotherSample.nodes input 1 to use conf\anotherEnv\anotherSample2.txt input 2 to use conf\someEnv\configFileSample.nodes 
+Fri, 08 Dec 2017 00:02:14 AredicCliConfigEntrance.py[line:151] DEBUG reading host and post :192.168.1.113:7004
+Fri, 08 Dec 2017 00:02:14 AredicCliConfigEntrance.py[line:154] DEBUG ['192.168.1.113', '7004']
+Fri, 08 Dec 2017 00:02:14 AredicCliConfigEntrance.py[line:167] DEBUG ip port passWord is:192.168.1.113 7004 asdasdfadsf
+Fri, 08 Dec 2017 00:02:14 AredicCliConfigEntrance.py[line:168] DEBUG ======starting a redic-cli.exe======
+Fri, 08 Dec 2017 00:02:14 AredicCliConfigEntrance.py[line:171] DEBUG start D:\projects\github\pythonPractice\redis\dist20171207\redis-cli.exe -h 192.168.1.113 -p 7004 -c  -a asdasdfadsf
+Fri, 08 Dec 2017 00:02:15 AredicCliConfigEntrance.py[line:110] DEBUG found config files ['conf\\anotherEnv\\anotherSample.nodes']
+Fri, 08 Dec 2017 00:02:15 AredicCliConfigEntrance.py[line:110] DEBUG found config files ['conf\\anotherEnv\\anotherSample.nodes', 'conf\\anotherEnv\\anotherSample2.txt']
+Fri, 08 Dec 2017 00:02:15 AredicCliConfigEntrance.py[line:110] DEBUG found config files ['conf\\anotherEnv\\anotherSample.nodes', 'conf\\anotherEnv\\anotherSample2.txt', 'conf\\someEnv\\configFileSample.nodes']
+Fri, 08 Dec 2017 00:02:15 AredicCliConfigEntrance.py[line:115] DEBUG message to show to user:input 0 to use conf\anotherEnv\anotherSample.nodes 
+Fri, 08 Dec 2017 00:02:15 AredicCliConfigEntrance.py[line:115] DEBUG message to show to user:input 0 to use conf\anotherEnv\anotherSample.nodes input 1 to use conf\anotherEnv\anotherSample2.txt 
+Fri, 08 Dec 2017 00:02:15 AredicCliConfigEntrance.py[line:115] DEBUG message to show to user:input 0 to use conf\anotherEnv\anotherSample.nodes input 1 to use conf\anotherEnv\anotherSample2.txt input 2 to use conf\someEnv\configFileSample.nodes 
